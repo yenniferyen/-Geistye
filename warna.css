@@ -1,0 +1,49 @@
+html { height : 100%; width : 100%;}
+
+body {
+		margin : 0; font-size : 13px; line-height : 15px;
+		font-family : Verdana, Arial, Helvetica, sans-serif;
+		background : #d4ecf1;
+	}
+	
+#header {
+			height : 120px;
+			margin : 0;padding : 0px 40px; text-align : left;
+			background :#a9d5f4; 
+}
+
+#header h1 {padding : 1em; margin : 0;}
+
+#page img {margin : 0px 0px 0px -26px;}
+
+#main {
+		height : 400px; width : 100%;
+		margin : 0; padding : 0;
+}
+
+#footer {
+		clear : both;
+		height : 5%; margin : 0; padding : 1em;
+		text-align : center;
+		background : #1A446C;
+		color : #D4E6F4;
+}
+
+#navigation {
+				float : left;
+				width : 150px; height : 200%;
+				margin : 0; padding : 0 2em;
+				background : #54b0e0;
+}
+
+#navigation a {color : #f9fafb;}
+#navigation a:hover{color : #0d7bb4;}
+
+#page {
+		float : left; height : 100%;
+		padding-left : 2em; vertical-align : top;
+		background : #d4ecf1;
+}
+
+#page h2 { color : #1A446C;}
+
